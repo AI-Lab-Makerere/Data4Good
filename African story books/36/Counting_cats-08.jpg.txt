@@ -1,0 +1,3 @@
+How many cats?
+
+6 Six cats.

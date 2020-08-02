@@ -1,0 +1,5 @@
+Cat and Dog can see the
+ball.
+
+Cat and Dog cannot get to
+the ball.

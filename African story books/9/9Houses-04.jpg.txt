@@ -1,0 +1,2 @@
+This house is a
+rectangle.

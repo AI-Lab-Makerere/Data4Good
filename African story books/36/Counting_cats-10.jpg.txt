@@ -1,0 +1,3 @@
+How many cats?
+
+8 Eight cats.
