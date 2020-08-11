@@ -1,3 +1,10 @@
+#
+# list of links from which the Bukedde
+# Agriculture data was scraped
+# Years of 2020 and 2019
+#
+
+
 https://www.bukedde.co.ug/ebyobulimi/1497129/okulima-ennyaanya-ku-musana-kunfunira-kiralu
 https://www.bukedde.co.ug/tag/okulima
 https://www.bukedde.co.ug/amawulire/1515806/obuyuuni-bunkoledde-ssente
@@ -35,3 +42,28 @@ https://www.bukedde.co.ug/ebyobulimi/1383615/bazudde-ekika-kya-muwogo-ekipya
 https://www.bukedde.co.ug/ebyobulimi/1403645/-ngatta-okulima-ensujju-amatooke-okufuna-ekiwera
 https://www.bukedde.co.ug/amawulire/1510796/ekirwadde-ekikwata-ebitooke-kitiisizza-abalimi-mu-lwengo
 https://www.bukedde.co.ug/ebyobulimi/1508990/abe-mukono-beeraliikiridde-enjala-ani-amuwadde-akatebe
+https://www.bukedde.co.ug/ebyobulimi/1513687/enkola-ya-kontulakiti-ofunemulaba
+https://www.bukedde.co.ug/ebyobulimi/1514055/obugagga-bwange-buli-mu-mbizzi
+https://www.bukedde.co.ug/ebyobulimi/1514739/abakugu-baabano-abagenda-okusomesa-mu-misomo-gya-harvest-money
+https://www.bukedde.co.ug/ebyobulimi/1514377/mujjumbire-emisomo-gyobulimi-egibaweebwa
+https://www.bukedde.co.ug/ebyobulimi/1515804/naleka-okutunga-engoye-kati-ndi-mu-kulima
+https://www.bukedde.co.ug/news/1520611/abalima-emboga-ennyaanya-ne-green-paper-busaana-ge-bakaaba-ge-bakomba
+https://www.bukedde.co.ug/amawulire/1520901/enkwata-amakungula-kye-kimu-ku-bisinga-okufiiriza-abalimi
+https://www.bukedde.co.ug/ebyobulimi/1512713/-bannayuganda-mulime-enva-endiirwa
+https://www.bukedde.co.ug/ebyobulimi/1509578/liirino-eddagala-erisinga-obukulu-ngolunda-embizzi
+https://www.bukedde.co.ug/video/1507996/laba-engeri-muwogo-gyakolebwamu-amafuta-ga-dizero
+https://www.bukedde.co.ug/ebyobulimi/1507494/mujjumbire-obulimi-nobulunzi-okukuza-essaza-lye-busujju
+https://www.bukedde.co.ug/buganda/1507203/katikkiro-mayiga-abakubirizza-okunnyikiza-obulimi
+https://www.bukedde.co.ug/ebyobulimi/1506550/bakubiriziddwa-ku-mmere-ey-omu-ttaka
+https://www.bukedde.co.ug/ebyobulimi/1505819/abalimi-babanguddwa-ku-nnima-ey-omulembe
+https://www.bukedde.co.ug/ebyobulimi/1505816/mu-nte-emu-nafunamu-ekiraalo-ky-endala-mukaaga
+https://www.bukedde.co.ug/ebyobulimi/1505350/abalimi-basomeseddwa-okukola-ekigimusa-okuva-mu-musulo-gw-abantu
+https://www.bukedde.co.ug/amawulire/1505317/nneekolera-ebigimusa-ne-nfuna-amagoba-agawera
+https://www.bukedde.co.ug/ebyobulimi/1504830/gav-ekole-ku-bisoomooza-abalimi-abalunzi-omubaka-wa-budaaki
+https://www.bukedde.co.ug/ebyobulimi/1504826/emisomo-gya-vision-egy-obulimi-obulunzi-gikomyewo
+https://www.bukedde.co.ug/amawulire/1504397/okufuna-mu-nkoko-emmere-njetabulira
+https://www.bukedde.co.ug/ebyobulimi/1504084/gavt-eweze-okugaba-eddagala-lya-fmd-eribadde-likozesebwa-okulwanyisa-omusujja-gwenkwa
+https://www.bukedde.co.ug/ebyobulimi/1502772/engeri-ennyangu-gyosobola-okukola-ssente-mu-bulimiro-bwenva-endiirwa
+https://www.bukedde.co.ug/amawulire/1500222/yiika-emmwaanyi-ettaano-tezinjuza
+https://www.bukedde.co.ug/ebyobulimi/1498865/abavubi-basabye-gavumenti-ssente-beetandikirewo-amakolero-ebyennyanja
+https://www.bukedde.co.ug/ebyobulimi/1498835/abalimi-bemicungwa-bakaaba-lwa-kirwadde-ekigiguddemu
