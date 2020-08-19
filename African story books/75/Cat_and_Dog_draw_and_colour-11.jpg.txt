@@ -1,8 +1,0 @@
-First Cat draws an oval.
-The oval is the body of Dog.
-
-Wow, that is good!
-
- 
-
-10

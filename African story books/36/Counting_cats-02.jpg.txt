@@ -1,3 +1,0 @@
-How many cats?
-
-O Zero cats.
