@@ -3098,7 +3098,7 @@ filename,sentence,age range,gender
 "03,098.mp3",Ogwana ogusiru guno oyogera otya ne taata wo bw'otyo.,35-30,m
 "03,099.mp3",Mwana gwe tojja kuyingira mu nju yange okuggyako nga si nze nkuzaala.,35-30,m
 "03,100.mp3",Waakiri okwebaka ne mmange naye nga sigenze mu ssabo.,35-30,m
-"03,101.mp3",Nali simanyi wa kulaga nga taata a__aanye okuyingira mu nju.,35-30,m
+"03,101.mp3",Nali simanyi wa kulaga nga taata angaanye okuyingira mu nju.,35-30,m
 "03,102.mp3",Nalowoozamu okugenda e wa kojja wange kyokka nga naye simwagala.,35-30,m
 "03,103.mp3",Nagoberera kitange mpola nga nsooba aleme ku ndaba.,35-30,m
 "03,104.mp3",Taata wange yasongera kojja wange gy'ateeka obuwangwa bw'ensolo z'atta.,35-30,m
@@ -3354,12 +3354,12 @@ filename,sentence,age range,gender
 "03,354.mp3",Pasipooti yange eggwako mwaka gujja mu gwomusanvu.,35-30,m
 "03,355.mp3",Nali simanyi nti osobola okugenda mu nsi z'obuvanjuba nga olina ndagamuntu .,35-30,m
 "03,356.mp3",Abakozi b'ennyonyi boogera bulungi nga bakubuuza kye wandyagadde okulya.,35-30,m
-"03,357.mp3",Wamma tumale empaka ennyonyi erina e__ombe?,35-30,m
+"03,357.mp3",Wamma tumale empaka ennyonyi erina engombe?,35-30,m
 "03,358.mp3",Bwe muba mu nnyonyi mukola mutya nga mufunye ekyetaago ky'okugenda e manju?,35-30,m
 "03,359.mp3",Omuvuzi w'ennyonyi asobola okugiyimirizaamu ng'akooye afune ku kawewo?,35-30,m
 "03,360.mp3",Omupiira gw'ennyonyi nga gwabise akola atya?,35-30,m
 "03,361.mp3",Nagenze okutuuka ku kisaawe nga bamaze okukebera abagenda okulinnya.,35-30,m
-"03,362.mp3",Nabadde nkukubira ssimu kutegeeza nti __enda bweru ekiro kya leero.,35-30,m
+"03,362.mp3",Nabadde nkukubira ssimu kutegeeza nti ngenda bweru ekiro kya leero.,35-30,m
 "03,363.mp3",Omukubi w'ebifaananyi yamusabye agyeko akatambaala ku mutwe alyoke amukube.,35-30,m
 "03,364.mp3",Mbadde siraba wa kutuula ne nsalawo ntuule ku kitoffaali.,35-30,m
 "03,365.mp3",Nsaba Katonda abatuuse bulungi gye mulaga.,35-30,m
@@ -3529,7 +3529,7 @@ filename,sentence,age range,gender
 "03,529.mp3",Osobolo okukozesa eky'okulwanisa ky'olina okwekulaakulanya oba okwennyika.,35-30,m
 "03,530.mp3",Kampuni enene zitwavuwaza mu ngeri y'okutukoleramu ebintu eby'ebbeeyi.,35-30,m
 "03,531.mp3",Neewuunya omuntu ayagala okulabika nga omugagga ate nga mwavu.,35-30,m
-"03,532.mp3",Ngeri ki abagagga gye baku__anyaamu ensimbi?,35-30,m
+"03,532.mp3",Ngeri ki abagagga gye bakunganyaamu ensimbi?,35-30,m
 "03,533.mp3",Tekyandibadde kirungi kugula ssaawa ya zaabu kukebera budde nga waliwo endala .,35-30,m
 "03,534.mp3",Omugagga abeera mugagga kuba yeesasula okusooka mu ngeri y'okukola bizinesi.,35-30,m
 "03,535.mp3",Ndi mwavu kuba ngula eby'ebbeeyi okusanyusa abandaba.,35-30,m
@@ -3553,7 +3553,7 @@ filename,sentence,age range,gender
 "03,553.mp3",Baamutwala okusoma mu kisulo naye eyamutwala agenda okudda e waka nga naye wuuyo.,35-30,m
 "03,554.mp3",Mu kifo ky'okugenda mu ddwaliro owoza bandoga.,35-30,m
 "03,555.mp3",Abazannyi ba firimu e Uganda beerandiza bokka.,35-30,m
-"03,556.mp3",Ono ye bamu__amba nti tasosola mu mawanga.,35-30,m
+"03,556.mp3",Ono ye bamungamba nti tasosola mu mawanga.,35-30,m
 "03,557.mp3",Obwongo bwo bunaffu nnyo okukwatira oluyimba olwo mu mwezi mulamba.,35-30,m
 "03,558.mp3",Olowooza ku bayimbi n'abazannyi ba firimu ani asinga okufuna ssente mu nsi yonna?,35-30,m
 "03,559.mp3",Si kirungi okwepampalika mu kukola omulimu nga tewagusomerera.,35-30,m
@@ -3612,7 +3612,7 @@ filename,sentence,age range,gender
 "03,612.mp3",Okugenda kw'abakozi ky'aletera bannanyini kampuni okuddamu empisa eri abakozi,35-30,m
 "03,613.mp3",Mubeere bayiiya nnyo okuva mu kukozesebwa kuba tekugaggawaza.,35-30,m
 "03,614.mp3",Nga tukyakolera awo omukazi oyo yatuseeranga emmere.,35-30,m
-"03,615.mp3",Tewali muntu yenna ayinza kwagala kwe__anga mutemi wa nnyama ng'avudde mu mbeera.,35-30,m
+"03,615.mp3",Tewali muntu yenna ayinza kwagala kwenganga mutemi wa nnyama ng'avudde mu mbeera.,35-30,m
 "03,616.mp3",Ennyama y'oyo tewandigiguze kuba atunda n'evunze.,35-30,m
 "03,617.mp3",Naye abantu balina ettima okutuuka okuliisa abantu ennyama y'embwa ku makubo.,35-30,m
 "03,618.mp3",Omusajja oyo abuulira nnyo enjiri ku kkubo oba aggya wa eky'okulya?,35-30,m
@@ -4115,406 +4115,406 @@ filename,sentence,age range,gender
 "04,115.mp3",Abayimbi b'ennaku zino tebakyayimba nnyimba ziyina makulu.,35-30,m
 "04,116.mp3",Abakazi b'ennaku zino bakuba abasajja.,35-30,m
 "04,117.mp3",Amazzi genkuteereddeyo mu kinaabiro gawola.,35-30,m
-,Kitange yali musawo ate nga maama wange ye mulimi.,25-20,f
-,Ebiseera bye nnamala nga ndi Masaka byankosa nnyo.,25-20,f
-,Kyategeeza nti nze nnalina okutwala obuvunaanyizibwa bwa kitange?,25-20,f
-,Okubeera omwana omukulu kya nnyamba okufuuka ow'obuvunaanyizibwa.,25-20,f
-,Ebiseera ebimu obusungu bunkwata buli lwe nkulabako.,25-20,f
-,Tulina kusimbula nga omaze kusooka kutukubira.,25-20,f
-,Abantu abasinga balowooza nti nze mukulu ku ggwe.,25-20,f
-,Ekitambiro kya mmisa leero tukirabidde ku terefayina.,25-20,f
-,Engeri gye tukuttemu omulimu guno nnungi nnyo.,25-20,f
-,Obadde okimanyi nti obulwadde ennaku zino bungi mu bantu?,25-20,f
-,Nga omwana mpulira nga nsaanidde okukola omulimu gwange era ngutuukirize.,25-20,f
-,Omukyala oyo bamaze ebbanga nga bamusibye.,25-20,f
-,Lwaki mu Uganda basiba abakyala?,25-20,f
-,Abantu abasinga baagala nnyo okumanya ki kyendi.,25-20,f
-,Omusajja ono ayagala nnyo omukazi oyo.,25-20,f
-,Ebisiyaga byagaanibwa wano mu Uganda era bwe bakukwata nga obirya musango.,25-20,f
-,Nga omusomi w'ebitabo nnayagala nnyo okutegeera ekintu ekyo kye kitegeeza.,25-20,f
-,Nnina okusooka okwebuuza ku taata wange ku nsonga eyo.,25-20,f
-,Ezo zonna nkiwa zaali nteekateeka za mukama.,25-20,f
-,Ebigambo bingi byogeddwa naye nga si bituufu.,25-20,f
-,Ensonga ezo zonna nnaziwulidde wabula nga teziriimu ggumba.,25-20,f
-,Ssaagala nnyo kulya mmere etafumbiddwa mukyala wange.,25-20,f
-,Emmese osuubira zo tezivaako bulwadde obwo?,25-20,f
-,Ki ekisinze okuleeta ensasagge mu kitundu kino?,25-20,f
-,Mpulira nga nkaluubiriziddwa nnyo obulamu ennaku zino.,25-20,f
-,Omukazi oyo aweereza bulungi pulogulaamu eyo.,25-20,f
-,Ennaku zino abaana batwala ebintu bingi ku masomero.,25-20,f
-,Lwaki omuntu omu ayinza okubba ekintu kya munne?,25-20,f
-,Ekikwekweto ekyakoleddwa eggulo kyabadde kya maanyi nnyo.,25-20,f
-,Abantu abalina empisa basaana kuweebwa birabo.,25-20,f
-,Omanyi abayimbi abato bameka mu Uganda ensangi zino?,25-20,f
-,Katonda mwebaza nti nnina akalimu ke nsobola okukola.,25-20,f
-,Muto wo ali mu kibiina ki?,25-20,f
-,Omukazi oyo alina engeri gye yeeyisaamu etannyumira.,25-20,f
-,Abaana abataagala kukola basaana baweebwe ebibonerezo.,25-20,f
-,Omusajja eyayiira mukazi we asidi baamuwa kibonerezo ki?,25-20,f
-,Ebintu ebisinga obungi we yagendera e bulaaya byali biwedde.,25-20,f
-,Abatuuze beekalakaasizza lwa kubeera na kkubo bbi.,25-20,f
-,Ekibiina kino kye kisinga okubeeramu abaana abalungi.,25-20,f
-,Amazaalibwa go gabeerawo mu mwezi ki?,25-20,f
-,Amazzi gano galinga agalimu omunnyo.,25-20,f
-,Waliwo abantu abagyemera ebiragiro bya katonda.,25-20,f
-,Lwaki togendako mu ssinzizo ne weenenya ebibi byo?,25-20,f
-,Wali osonyiye ku muntu akukoze ekibi kyonna?,25-20,f
-,Obulwadde buno buyinza okuviirako omuntu okwetuga.,25-20,f
-,Okimanyi nti omwana oyo kati yenkana ne maama we obunene?,25-20,f
-,Mukama ensi eno yonna agikutte mu ngalo eno.,25-20,f
-,Abantu kati beetaaga kubayigiriza ngeri ya kunaaba ngalo.,25-20,f
-,Waliwo abantu abaabadde tebaagala kusigala mu maka gaabwe.,25-20,f
-,Lwaki ebintu ebisinga bya buseere ennaku zino?,25-20,f
-,Ekitundu kino kirimu abatemu bangi.,25-20,f
-,Omukazi baamukubye olubale nga balwanira omusajja.,25-20,f
-,Luli lwe twaziika omukadde oli olujjukira?,25-20,f
-,Mwana ki asinga obwesigwa mu baana bo?,25-20,f
-,Nze nnabadde ndowooza nti ebintu by'obuyonjo tubigyemu ekyejo.,25-20,f
-,Omusota gwabojjezza omusajja eggulo.,25-20,f
-,Ekirwadde kino kitadde nnyo abantu ku bunkenke.,25-20,f
-,Maama waabwe yali mukazi naye nga si mwangu nnyo.,25-20,f
-,Tosobola kuddamu kulowooza nti abantu bano beesigwa.,25-20,f
-,Omuwabuzi w'omukulembeze yayombye ku basajja abataweerera baana.,25-20,f
-,Ekyeyo kye yagendako omwaka oguwedde kyali kya mukisa.,25-20,f
-,Nze nga bwe ndaba ku bonna tewali alina musango.,25-20,f
-,Abavubuka abaakoze effujjo eggulo bonna bakwatiddwa.,25-20,f
-,Oteekeddwa okukimanya nti amaanyi gali mu mikono gyo.,25-20,f
-,Amenvu galimu ekirungo ekirungi mu kutereeza olubuto.,25-20,f
-,Lwaki abaana abawala baakoze bubi mu bibuuzo bino?,25-20,f
-,Oyo omukazi yagenda okutandika okuyimba nga ndi mukulu.,25-20,f
-,Mu sentensi zino tetuteekeddwa kusukka bigambo bikumi bina.,25-20,f
-,Omwana oyo lwaki temumufuddeeko nnyo?,25-20,f
-,Abazadde tebalina kye balina kwekwasa kuba abaana baabwe basomesaddwa.,25-20,f
-,Omugaati kimu ku bintu ebisinga okumpoomera.,25-20,f
-,Omwami yagamba mukyala we nti amwagala okutuuka ku mwezi.,25-20,f
-,Abo bonna abalina okwemulugunya bawandiike amannya gaabwe.,25-20,f
-,Ebikajjo bino byandibadde birungi naye omusana gwabikosa.,25-20,f
-,Lwaki teweesiize bizigo?,25-20,f
-,Abawala abakulu nga tebeefaako oba baba bategeeza ki?,25-20,f
-,Abantu abasinga baali bamanyi nti nsaaga naye kyababuukako.,25-20,f
-,Njagala nnyo okulunda ebisolo naddala ebyo ebivaamu ensimbi.,25-20,f
-,Okusooka kwa byonna twali tulowooza nti omusajja oyo mubbi.,25-20,f
-,Eggulo walabye omuvubuka gwe baakubye nga abbye?,25-20,f
-,Ekinu kimu ku bintu ebiriko emizizo mu Buganda wano.,25-20,f
-,Akatamu kano kawangadde okumala emyaka egisukka mu makumi ataano.,25-20,f
-,Lwaki wabadde olwowooza nti nze agenda okusooka okutuuka?,25-20,f
-,Laba ebintu bye tubadde tusuubira okufuna ate tetubifunye.,25-20,f
-,Abantu abo balowooza nti tugenda kuggwamu amaanyi ku musango guno.,25-20,f
-,Abatuuze baasuze bakuumi ebisolo byabwe kuba bibbibwa nnyo ennaku zino.,25-20,f
-,Akasente k'ennaku zino ka kutuuyanira nnyo.,25-20,f
-,Amafuta agawunya wano olowooza gavudde wa?,25-20,f
-,Nsanze ente nga ziri mu lumonde wange zirya amalagala.,25-20,f
-,Akabanje akaagudde mu kifo kiri wakategeddeko?,25-20,f
-,Abantu bonna abakoppa basaaanye bavunaanibwe.,25-20,f
-,Omukulembeze oyo tawadde batuuze be kifaananyi kirungi.,25-20,f
-,Omupakasi oyo alima bulungi nnyo.,25-20,f
-,Obadde okimanyi nti obutiko kimu ku bintu ebyeddirwa wano mu Buganda?,25-20,f
-,Abakazi baagala nnyo ssente ezibalekerwa ku kameeza.,25-20,f
-,Oteekeddwa okutabula obulungi eddagala eryo nga tonnaliwa mwana oyo.,25-20,f
-,Ebintu ebimu by'okola bikuyisa mulalu oba okimanyi?,25-20,f
-,Obuwundo buteeberezebwa nti bwe bwavaako ekirwadde kino.,25-20,f
-,Omusajja eyakoze akalango ako oba yabadde ku ki?,25-20,f
-,Oteekeddwa okweyigiriza okutereka ssente wekka.,25-20,f
-,Omuvubuka ow'omulembe ateekwa okuba nga yeefaako.,25-20,f
-,Ennaku kati ziweze kkumi na ttaano okuva lwe baggala amasomero.,25-20,f
-,Oteekeddwa okukyusa engoye ezo buli lunaku.,25-20,f
-,Ettabi ly'omuti lyawaguse eggulo ne likuba emmotoka.,25-20,f
-,Nnaabakyala wa Bungereza we yajjira mu Uganda wali wa?,25-20,f
-,Oyo omusajja tasaanidde kweyisa atyo kuba naye azadde abaana.,25-20,f
-,Abaana abawala basaanidde okuyigira ku nsobi zaabwe ze bakola.,25-20,f
-,Wali weegomba obusomesa nga omulimu oba baakukaka okubusoma?,25-20,f
-,Oteekeddwa okusomera e waka wadde essomero liggale.,25-20,f
-,Ekiwottonono okimanyi?,25-20,f
-,Embeera bw'enaatereera nja kukuleeta tubeere ffembi.,25-20,f
-,Omwana oyo muto naye yeeyisa bulungi.,25-20,f
-,Abayimbi abatandika ennaku zino bangi nnyo.,25-20,f
-,Bbayibuli egamba etya ku kikolwa ekyo?,25-20,f
-,Lwaki weenakuwaza ate nga oli musajja mugagga?,25-20,f
-,Entuumu y'amayinja olowooza eri mu ssente mmeka?,25-20,f
-,Jjukira ne bbayibuli ekyogera nti alina akatono kalimuggyibwako.,25-20,f
-,Omwana bwe baamugoba teyadda waabwe.,25-20,f
-,Ki olowooza ekyali kiviirako abantu okuttibwa mu biseera ebyayita?,25-20,f
-,Ennaku zino kiba kirungi omuntu n'asiiba ewaka.,25-20,f
-,Wali olinnyeeko ku nnyonyi bukyanga obeerawo?,25-20,f
-,Ye abange olina emyaka emeka?,25-20,f
-,Bulijjo neebuuza ekibuuzo ekyo naye nga sirina kya kuddamu.,25-20,f
-,Omuntu alina okwesigika oba y'afaanana atya?,25-20,f
-,Ekikonde ekyamukubwa kyali kya maanyi nnyo era nze nnali ndowooza afudde.,25-20,f
-,Maama wange omuto yagudde mu batemu katono bamutte.,25-20,f
-,Bwe nnaaba nfunye ku kasente nja kutandikawo obulunzi bw'enkoko.,25-20,f
-,Ekifuba kimuluma kuba yasitula nnyo ebintu ebizitowa nga muto.,25-20,f
-,Oba lwaki obufumbo bw'ennaku zino tebuliimu ssanyu?,25-20,f
-,Omugole yayambala engoye nga za bbeeyi nnyo naye teyanyuma.,25-20,f
-,Nsibawo emitwalo gyange ataano bw'oba omanyi taata wange.,25-20,f
-,Nawolovu abakazi abasinga bamutya nnyo.,25-20,f
-,Omwana oyo yatandika okwekozesa nga muto nnyo.,25-20,f
-,Abanoonyibobubudamu be basinze okuleeta ebizibu mu Uganda.,25-20,f
-,Obadde okimanyi nti omulunzi naye abeera muntu?,25-20,f
-,Ebiseera nga tugenda mu kulonda bibeera bya bwerinde nnyo.,25-20,f
-,Akafi k'ennyama akamu ke yampadde kati ate akaagala.,25-20,f
-,Sijja kwetonda kuba siraba musango gwe nnakoze.,25-20,f
-,Ekide ky'agenze okukoona nga abaana bonna tebannatuuka.,25-20,f
-,Omwana oyo ojja kumuyiira obuugi.,25-20,f
-,Faayo nnyo okulaba nga abantu b'okulembera bakwenyumirizaamu.,25-20,f
-,Omukadde eyali abeera wano yali muyonjo nnyo.,25-20,f
-,Nkuze kutuuka wano naye simanyi wadde okuvuga eggaali.,25-20,f
-,Eddagala ly'ekinnansi ennaku zino lyettaniddwa nnyo.,25-20,f
-,Amenvu kimu ku bintu abasawo kye batugamba okulya ennyo.,25-20,f
-,Osuubira amazzi galina mugaso ki mu mubiri gw'omuntu?,25-20,f
-,Omukazi oyo alwana nnyo ne bakazi banne.,25-20,f
-,Oluvannyuma lwa mukyala we okumukwatira mu bwenzi yasalawo anobe.,25-20,f
-,Olubugo edda abantu baali balwambala nga olugoye.,25-20,f
-,Wenjogerera ebyokwerinda bimaze okunywezebwa ku nsalo y'eggwanga.,25-20,f
-,Oluguudo luno mu maaso eyo nja kulubbulamu erinnya lyange.,25-20,f
-,Omwezi obadde okimanyi nti gwaboneka?,25-20,f
-,Lwaki enjuki zirumisa kabina?,25-20,f
-,Oteekwa okuba nga okoze bulungi okuweebwa ekifo wano.,25-20,f
-,Mu kusooka nnali mmanyi nti buli gwe basiba abeera n'omusango.,25-20,f
-,Obukadde obusoba mu makumi ataano butokomokedde mu muliro.,25-20,f
-,Emyaka nga ettano egiyise amasomero gaali gookyebwa nnyo.,25-20,f
-,Ekirevu ky'omusajja oyo kizise naye tayagala kukisala.,25-20,f
-,Obudde buno mbadde nsuubira abaana abali mu myaka gyo okubeera nga beebase.,25-20,f
-,Ekidomola kino kitonnya naye kikyalina omugaso.,25-20,f
-,Okuba nnyo enduulu singa babeera bakubba.,25-20,f
-,Wali weefumiitirizza ku bulamu singa omuntu yali tayambala?,25-20,f
-,Olowooza ku ggi n'enkoko ki ekyasooka okutondebwa?,25-20,f
-,Emboozi y'abayigirizwa mu bbayibuli ogitegeera bulungi?,25-20,f
-,Oteekeddwa okukola obulungi omulimu ogukuweereddwa okusobola okusiimibwa.,25-20,f
-,Akaseera kano waliwo abantu abamu nga beebase.,25-20,f
-,Katikkiro mwagala nnyo kuba atukubiriza buli kadde okubeera abakozi ennyo.,25-20,f
-,Bulijjo tulina okujjukira abantu abatuyambye mu bulamu bwaffe.,25-20,f
-,Ekiwempe kino ani eyakiruka?,25-20,f
-,Ebyobulamu mu kaseera kano tebiteekeddwa nnyo ku mwanjo.,25-20,f
-,Osabiddwa okuleeta abantu nga bataaano abakusemba okukola omulimu guno.,25-20,f
-,Abantu abataasoma be basinga okwonoona ebyobuwangwa.,25-20,f
-,Abantu abasinga bagaana okukola ebintu bye balina okukola.,25-20,f
-,Wali osembyeko mu kibiina kyonna?,25-20,f
-,Obudde buno bwa mutawaana nnyo eri abavubuka.,25-20,f
-,Kabaka wa Buganda yalondebwa okubeera omusaale mu kulwanyisa mukenenya.,25-20,f
-,Wali olabye ku muntu afudde mukenenya?,25-20,f
-,Abantu abanywa ennyo omwenge be basinze okusuulawo obuvunaanyizibwa.,25-20,f
-,Olunaku luyinza okukya ku makya nga gwe nannyini wano.,25-20,f
-,Abaganda abaasooka baakola kya maanyi nnyo okutandikawo eggwanga lino.,25-20,f
-,Olwokubiri olujja nnina okutuukako mu kifo kiri kye twayogerako.,25-20,f
-,Obwegassi lye limu ku makubo omulina okuyitibwamu okuvvuunuka obwavu.,25-20,f
-,Tetulina kukungaanira mu masinzizo ku lunaku luno.,25-20,f
-,Omubazzi yeggalira bikooko kyokka embaawo azitunda.,25-20,f
-,Olina okubeera n'omwoyo ogulumirirwa abantu abalala.,25-20,f
-,Omwezi guno ffenna tulina okubeera nga tukoze alipoota ku mulimu guno.,25-20,f
-,Ekibadde kikutte obudde kimaze ne kibuta.,25-20,f
-,Engalo obadde okimanyi nti kye kitundu ky'omubiri ekisinga obukyafu.,25-20,f
-,Abantu abasinga beekweka mu biseera ebyasooka nga siriimu yakajja.,25-20,f
-,Omusamize akwatiddwa nga avunaanibwa kusaddaaka mwana.,25-20,f
-,Lwaki obadde oyagala kugenda bweru wa ggwanga?,25-20,f
-,Abantu abayinza okuba n'obulabe be bano be tuli nabo wano.,25-20,f
-,Ekipande kino kinene bulungi.,25-20,f
-,Tuteekeddwa obutateeka bya bufuzi mu nsonga zino.,25-20,f
-,Osaanye okuwa ebirowoozo nga tolina kyekubiira yenne.,25-20,f
-,Obadde okimanyi nti Bbinikira nakyo kyalo?,25-20,f
-,Singa mukazi wo akugamba nti ayagala kunoba owulira otya?,25-20,f
-,Nze bwe mpulira nga enjala ennuma siddamu kukwata bye nsoma.,25-20,f
-,Ebintu bino yabisoma era abimanyi nnyo.,25-20,f
-,Obuyonjo bwetaagisa nnyo mu kiseera nga kino.,25-20,f
-,Malirizza okufumba emmere naye sirina nva.,25-20,f
-,Baali bakusibyeko mu kkomera?,25-20,f
-,Obudde bugenze okuwungeera nga abalwadde baweze bataano.,25-20,f
-,Njagala nnyo okulya ebyennyanja naddala nga bisiike.,25-20,f
-,Wazzizza musango ki ogwakuviiriddeko obuzibu?,25-20,f
-,Nze mbadde ndowooza nti tulina okusisisnkana leero.,25-20,f
-,Okkiririza mu kikolwa ky'okukuba abaana ku masomero?,25-20,f
-,Osobola okumpandiikira ekintu ky'onna ky'oyagala nze ne nkikuwa.,25-20,f
-,Obuyambi bwe twandifunye bwandituyambye nnyo mu kiseera nga kino.,25-20,f
-,Omukulembeze asazeewo amasomero gonna gaggalwe.,25-20,f
-,Oteekeddwa obutanoonya bya kukola nga omaze okusoma.,25-20,f
-,Edda nze nnali mmanyi nti okulima kibonerezo.,25-20,f
-,Amayembe g'ente gwe olowooza galina mugaso ki?,25-20,f
-,Sinnalaba kintu kipya kiyinza kweyambisibwa mu mbeera eno.,25-20,f
-,Omulaalo atuuse naye ate taleese mata.,25-20,f
-,Lwaki emboozi zo ezisinga zikwata ku bakazi?,25-20,f
-,Eggulo we nnakulabidde nnabadde mpulira obusungu bungi nnyo.,25-20,f
-,Okusinziira ku bintu bye mbadde nkuwa obadde tosaana kukola ekyo.,25-20,f
-,Abazadde nabo balina okuvunaanibwa ku nsoma embi ey'abayizi.,25-20,f
-,Nze nnina ekirooto kinene era luliba olwo ne kituukirira.,25-20,f
-,Ababbi ennaku zino bangi nnyo oba lwaki?,25-20,f
-,Omuyimbi oyo talina bwenkanya okusinziira ku bye yayimbye.,25-20,f
-,Ani gw'ogenda okuwagira mu kalulu akajja?,25-20,f
-,Nabadde ndowooza nti ebintu ebisinga tubimalirizza.,25-20,f
-,Lwaki otwala obudde bungi okukwata essimu?,25-20,f
-,Omuyini guno mumpi nnyo era gunnumya omugongo.,25-20,f
-,Omukwano gwe baalina ne mukyala we gwali gubasaza mu kabu.,25-20,f
-,Ekikopo ekyo wandibadde okiggyawo wansi awo.,25-20,f
-,Engoye zonna ze yabadde ayanise baazibbye eggulo.,25-20,f
-,Fukamira bulungi nga obuuza abantu abakulu.,25-20,f
-,Nze nkufaako nnyo naye olabika tokiraba.,25-20,f
-,Omwana oyo omutwala wa ekiro kino?,25-20,f
-,Omukadde oli gwe yali oyogerako yalaga wa?,25-20,f
-,Sigenda kugula bintu ku bbeeyi ya buseere.,25-20,f
-,Abaana bano babadde bawoggana.,25-20,f
-,Ebibumba bye nnakugambye okusiika biri wa?,25-20,f
-,Omusomo guno mulungi nnyo naddala eri abavubuka abatandika okwezimba.,25-20,f
-,Olwaleero tugenda kubeera mu kifo kino nga tukirongoosa.,25-20,f
-,Guno omuddaala waguzimbisa ssente mmeka?,25-20,f
-,Osobola kwogera nnimi mmeka?,25-20,f
-,Lwaki amateeka ku byokulima manafu nnyo?,25-20,f
-,Amaziga ge yakaaba nga bamusuddewo gaali mangi nnyo.,25-20,f
-,Ebinyebwa bye yalima byamera bulungi.,25-20,f
-,Ekimuli ky'emmwanyi okimanyi kibeera kyeru?,25-20,f
-,Oteekeddwa okuwuliriza bantu abakulu nga boogera.,25-20,f
-,Ka ngire nnoonye ekyokkola.,25-20,f
-,Ennamba gye wampa nga tebeerako.,25-20,f
-,Nnakugamba olekere awo okumpita bbaawo naye towulira.,25-20,f
-,Ebikuta bya lumonde embizzi zibirya nga obifumbye.,25-20,f
-,Obadde okimanyi nti nze nnazinze omukeeka gwe mwabadde mutuddeko?,25-20,f
-,Obutula bulungi nnyo ku bantu abalina entunnunsi.,25-20,f
-,Ekyo ekyalo kimanyiddwa nti kirima nnyo lumonde.,25-20,f
-,Nawulidde nti wagudde mu babbi eggulo.,25-20,f
-,Bwe nnamusanga yandaga nti kye yaliko tekyali kikyamu.,25-20,f
-,Sigaana ye ggwe abasinga mu bulungi naye olina empisa embi.,25-20,f
-,Lwaki obadde ogaanye okuggulawo?,25-20,f
-,Kiki ekisinga okukunyiiza nga tuli ffembi?,25-20,f
-,Abateesa ku biteeso ebyo si birungi nnyo.,25-20,f
-,Okusannyalaza omuntu nga alongoosebwa olowooza kirungi?,25-20,f
-,Oluguudo luno lusaana kuddamu kulimibwa.,25-20,f
-,Omwana oyo abadde muto jjuuzi wano anaye kati akuze.,25-20,f
-,Ekibinja ky'abaana abato nga tebasomye kiba kya bulabe.,25-20,f
-,Ensimbi ennaku zino tezirina muwendo gumala.,25-20,f
-,Enkumi nnya wano mu Uganda ogamba zigula ki?,25-20,f
-,Eggulo olubuto lwannumye nnyo ekiro.,25-20,f
-,Wabula bwe nkugamba ku bintu ebinnuma tofaayo.,25-20,f
-,Obuyaaye kibi naye ate abantu abamu bakifunyeemu.,25-20,f
-,Nze nsuubira tutuule waka ekirwadde kiggwewo.,25-20,f
-,Nja kukomawo singa onaaba onsonyiye.,25-20,f
-,Lwaki abakazi abasinga basiba obusungu ku mitima?,25-20,f
-,Okukuma mu bantu omuliro kati musango mu Uganda.,25-20,f
-,Omusota ogwo ne bw'otagutta tegulina busagwa.,25-20,f
-,Okulenga emyera gumu ku mirimu egisinga okukolebwa wano mu Uganda.,25-20,f
-,Ekikennembi kyo okimanyi?,25-20,f
-,Olina amannyo ameka mu kwamwa?,25-20,f
-,Jjukira nti si kirungi kunyooma muntu yenna.,25-20,f
-,Olina okubeera nga olina ekirooto mu bulamu bwo.,25-20,f
-,Ntuuse okugenda okufuna eddagala kuba mpulira nkooye obulwadde buno.,25-20,f
-,Ekibadde wano kibadde kibi nnyo.,25-20,f
-,Tulina kukolera wamu nga abantu abalina ekirooto ekisinga.,25-20,f
-,Buli kintu ky'ofukirira kivaamu ebibala ebirungi.,25-20,f
-,Buli kintu kye mbadde njagala kyonna okimpadde.,25-20,f
-,Obuweerero bwe tufunye bungi nnyo.,25-20,f
-,Abantu abasukka mu mutwalo ogumu banna balwadde.,25-20,f
-,Abadduse mu kkomera eggulo babakutte.,25-20,f
-,Abaafudde baabadde bameka?,25-20,f
-,Omukyala oyo alina omuzigo gulinga eddibu.,25-20,f
-,Ebyo nnabivaako nga binnumya nnyo obulamu bwange.,25-20,f
-,Akalulu kange nnakamuwa naye teyayitamu.,25-20,f
-,Siyinza kukkiriza nti gwe muntu asinze mu mulimu guno.,25-20,f
-,Ompa bweyamo kinti ogenda kubeera mukazi asinga?,25-20,f
-,Okwagala ebintu ebinga kyabulabe nnyo eri abavubuka.,25-20,f
-,Waliwo abantu abatali beesigwa kukola nabo.,25-20,f
-,Funayo waakiri ekipapula ekikwogerako.,25-20,f
-,Omusango gwe baamuvunaanye nti yaguzza emyaka kkumi emabega.,25-20,f
-,Amajaani gano malungi naye si malungi ku bakazi.,25-20,f
-,Kaawa ono naye ayina okutwalibwa .,25-20,f
-,Ebisembayo byonna yambimpa naye ssaabitegeera.,25-20,f
-,Abaana bo kati bonna balina eby'okukozesa?,25-20,f
-,Omukulembeze w'ensi yaffe yaakogera eri eggwanga emirundi esatu.,25-20,f
-,Abavubuka balina okukolerera obukadde bwabwe nga bakyalina amaanyi.,25-20,f
-,Katonda yamuwa ekitone ky'okuzina naye yagaana okukikozesa okubaako ky'atuukako.,25-20,f
-,Okufa lugendo era olutambula bw'omu.,25-20,f
-,Obutemu ensangi zino bungi nnyo naddala ku baana abasoma.,25-20,f
-,Tulina okulaba nga tukola nnyo okusobola okuba obulungi gye bujja.,25-20,f
-,Ekitambaala kino kikadde naye kirungi n'okusinga kino ekyakalukibwa.,25-20,f
-,Buli muntu mu Buganda ateekwa okuwa kabaka ekitiibwa ekisaanidde.,25-20,f
-,Ekitambaala kino kikadde naye kirungi n'okusinga kino ekyakalukibwa.,25-20,f
-,Bwe yamufumise akambe omusaayi ggwayiise mungi nnyo.,25-20,f
-,Omukyala ono atuyigirizza nnyo okulunda ebisolo naddala ente.,25-20,f
-,Lwaki wasalawo okusoma obusawo n'otasoma busomesa nga nze?,25-20,f
-,Abantu abamumanyi batono nnyo era tasobola kuwangula kalulu.,25-20,f
-,Ojjukira omuyizi eyeesimbawo n'afuna akalulu kamu kokka?,25-20,f
-,Mu kitundu ky'olupapula ekyasooka yafunamu akabonero kamu kokka.,25-20,f
-,Olulimi oluganda kati terukyatwalibwa nga lwa wansi.,25-20,f
-,Okubeera ku mulembe olina okuba nga weekakasa olulimi lwo.,25-20,f
-,Obuyonjo kimu ku bintu ebisuubirwa mu muvubuka ow'omulembe omutebi.,25-20,f
-,Obulambuzi kati buteereddwamu nnyo amaanyi nga omu ku kaweefube w'okululaakulanya eggwanga.,25-20,f
-,Nze bwe mbeera nnyize ssaagala muntu yenna ansala mu maaso.,25-20,f
-,Olusuku luno ndulabirira bulungi era y'ensonga lwaki luvaamu amatooke amalungi.,25-20,f
-,Okuteekateeka okulonda kyetaagisa ensimbi nnyingi nnyo.,25-20,f
-,Omukazi yamugoba olw'ensonga nti yali tazaala.,25-20,f
-,Emirundi mingi abaana abato balemwa okutuuka ku masomero mu budde.,25-20,f
-,Omuzadde yenna ateekwa okusasula ebisale by'essomero.,25-20,f
-,Olugambo kimu ku bintu ebisinga okutabangula obufumbo.,25-20,f
-,Omuyizi omupya mu kibiina asaanye okulambikibwa obulungi ereme kugwa mu buzibu.,25-20,f
-,Gye nnasooka okukolera omusajja yali tasasula.,25-20,f
-,Oluwombo luwooma nnyo naye nze sisobola kulugula mitwalo gisukka mukaaga.,25-20,f
-,Bw'otuuka ku muti gwa ffene nga onkubira essimu.,25-20,f
-,Obusosoze mu mawanga kye kimu ku biviiriddeko eggwanga okudda emabega.,25-20,f
-,Embeera embi ereetera abakazi okukyawa abasajja bwabwe.,25-20,f
-,Nnali mwagala nnyo naye nga ate teyeefiirayo.,25-20,f
-,Omukululo taata gwe yaleka gwali mulungi nnyo okusinga omuntu omulala yenna.,25-20,f
-,Tutegeke bye tugenda okusomesa abayizi mu kibiina olwa leero.,25-20,f
-,Mukwano gwange ono tayagala kusoma ate nze nga njagala asome.,25-20,f
-,Abafumba emmere mu butale basaanye okuba abayonjo.,25-20,f
-,Enva endiirwa zirimu ekiriisa kya maanyi nnyo era eky'omugaso.,25-20,f
-,Okukopperera kiviiriddeko okudibya ebyobuwangwa.,25-20,f
-,Ekiwonvu kino kirimu amazzi amalungi okuwa ente.,25-20,f
-,Tombuulira bigambo bya mukazi oyo kuba nnabikoowa.,25-20,f
-,Omuti guno mulungi mu kuwanula amapaapaali.,25-20,f
-,Otera okulya ku bibala?,25-20,f
-,Sisobola kulya mawolu ku makya kuba gannumya olubuto.,25-20,f
-,Ebigambo ebiwandiikibwa ku maduuka ebimu tebibeera bituufu.,25-20,f
-,Gendako mu lubiri e Mengo olabe ku kika ky'omuddo oguliyo.,25-20,f
-,Ebikuta bya muwogo tebiriibwa bantu.,25-20,f
-,Nnakula nga otambula lwakuba wali oyanguwa nnyo.,25-20,f
-,Twagala omuntu nga alina obumanyirivu mu kuwandiika Oluganda.,25-20,f
-,Guno omulimu tujja kusobola okugukola.,25-20,f
-,Enjala mpulira ennuma nnyo era tugende tufune ekyokulya.,25-20,f
-,Siyinza kwagala mukazi asiika mpuuta mu bulamu bwange.,25-20,f
-,Olusingosingo lw'enkoko tekubeera wadde akanyama akatono bwe kati.,25-20,f
-,Ndeetera engatto zange awo wansi w'ekitanda.,25-20,f
-,Olugoye luno lukaddiye era neetaagayo olulala.,25-20,f
-,Wayozezza engoye naye tezaatukudde wadde namu.,25-20,f
-,Obufumbo bw'abavubuka ensangi zino tebutera kuwangaala.,25-20,f
-,Fulumya engatto zo eno ennyumba tetuyingizaamu ngatto.,25-20,f
-,Ennyonyi tesobola kutambula nga temuli mafuta.,25-20,f
-,Empewo nnyingi nnyo ennaku zino.,25-20,f
-,Mukyala wange mpulira mwagala okukamala naye takimanyi.,25-20,f
-,Nja kkugulira essaawa singa banaaba bansasudde ssente zange.,25-20,f
-,Okubumba kulungi naye kukaluubiriza mu biseera by'enkuba.,25-20,f
-,Omusota gwe twasanga mu kakubo akatono nga tudda ewaka ogujjukira?,25-20,f
-,Enkuba bw'etonnya ate omuntu ne yelaliikirira ebisooto.,25-20,f
-,Omufumbo yenna teyandisaanye kutuuka kikeerezi ewaka.,25-20,f
-,Lwaki abantu abatta bannabwe tebaweebibonerezo bikakali?,25-20,f
-,Ekikongoliro kisobola okukuula erinnyo singa oba okirumye.,25-20,f
-,Olubaawo luno lwetaaga kusiimuula lusooke lutukule.,25-20,f
-,Ebyenda ebibeera mu nte bingi okusinga ebibeera mu muntu.,25-20,f
-,Eddagala lye baamuwa lyali terisobola kumuwonya musujja.,25-20,f
-,Ekiro embwa zaasuze nga ziboggola ne zimbuzaako otulo.,25-20,f
-,Kitundu ki ky'omanyi ekisingamu obunnyogovu wano mu Buganda?,25-20,f
-,Olulimi Oluganda si lwangu lwa kuvvuunula nadda ku muntu atalusomye.,25-20,f
-,Ekidomola kino tekiriimu mazzi naye kizitowa nnyo.,25-20,f
-,Amasowaani gano mugateeke ku katandaalo gaggweko amazzi.,25-20,f
-,Ekimmondemonde kiri ekiri mu lutobazi kyetaaga kulima nga enkuba tennakitonnyamu.,25-20,f
-,Ekiwato ky'omuyimbi oli kigonda nnyo ky'ova olaba nga azina nnyo.,25-20,f
-,Bwe twatuula mu kizimbe kiri temwali wantu we tuteeka bisaaniiko.,25-20,f
-,Ekitabo kino kinyuma nnyo era buli muntu asaanye akisome naye anyumirwe.,25-20,f
-,Nze ntya okuyita ku mazzi kuba nnina ensisi nnyingi nnyo.,25-20,f
-,Omuwala ono awandiika bulungi naye tamanyi kubala.,25-20,f
-,Mbaliraako ebitabo ebyo olabe oba biwera amakumi ataano.,25-20,f
-,Entamu eno yabotoka ate gye tulina okufumbiramu kuba tuli bangi nnyo.,25-20,f
-,Nze nandiguze ekibanja kiri naye sirina ssente zimala.,25-20,f
-,Obulamu bw'okusomesa bunyuma naye bwetaaga nga omuntu amanyi okutereka ssente.,25-20,f
-,Ekyuma kino kigumu nnyo era kisobola okumala emyaka egisukka mu kikumi.,25-20,f
-,Obuzaale bw'omugenzi tewali muntu abumanyi kubanga ffe tubadde bato ku ye.,25-20,f
-,Nze ntya okwewola kubanga kiyinza okunviirako okusibwa.,25-20,f
-,Funayo omukazi akufumbira kubanga okomawo nga obudde buyise nnyo.,25-20,f
-,Ekikoola kino kigazi naye kirimu ebibomboola ebitali birungi.,25-20,f
-,Nnawolovu kantu katono nnyo naye katambula kasoonooka.,25-20,f
-,Tereeza enviirizo kubanga kisunsumadde era kikulabisa bubi nnyo.,25-20,f
-,Ku nkoko nze nsinga kwagalako kisambi kubanga kibaako ennyama ewooma.,25-20,f
-,Waliwo omuntu eyansuubiza ssente zange olwa leero naye tannatuuka.,25-20,f
-,Okwewola ssente mu bbanka kizibu ennaku zino kubanga kyetaagisa emisoso mingi.,25-20,f
-,Ettaka eggimu libeera ddungi okulimirako enva endiirwa kuba zidda bulungi.,25-20,f
-,Omuti guno gutandise okutojjera ebikoola kati gwetaaga enkuba.,25-20,f
-,Olupapula luno si lulungi kuwandiikibwako muntu nga mulwadde wa maaso.,25-20,f
-,Okuwasa omukazi mu bufumbo obutukuvu kirungi kuba abaana bammwe babeera batukuvu.,25-20,f
-,Nze siri mutuukirivu era neewala nnyo okulamula omuntu.,25-20,f
+"04,118.MP3",Kitange yali musawo ate nga maama wange ye mulimi.,25-20,f
+"04,119.MP3",Ebiseera bye nnamala nga ndi Masaka byankosa nnyo.,25-20,f
+"04,120.MP3",Kyategeeza nti nze nnalina okutwala obuvunaanyizibwa bwa kitange?,25-20,f
+"04,121.mp3",Okubeera omwana omukulu kya nnyamba okufuuka ow'obuvunaanyizibwa.,25-20,f
+"04,122.MP3",Ebiseera ebimu obusungu bunkwata buli lwe nkulabako.,25-20,f
+"04,123.MP3",Tulina kusimbula nga omaze kusooka kutukubira.,25-20,f
+"04,124.MP3",Abantu abasinga balowooza nti nze mukulu ku ggwe.,25-20,f
+"04,125.MP3",Ekitambiro kya mmisa leero tukirabidde ku terefayina.,25-20,f
+"04,126.mp3",Engeri gye tukuttemu omulimu guno nnungi nnyo.,25-20,f
+"04,127.mp3",Obadde okimanyi nti obulwadde ennaku zino bungi mu bantu?,25-20,f
+"04,128.mp3",Nga omwana mpulira nga nsaanidde okukola omulimu gwange era ngutuukirize.,25-20,f
+"04,129.mp3",Omukyala oyo bamaze ebbanga nga bamusibye.,25-20,f
+"04,130.mp3",Lwaki mu Uganda basiba abakyala?,25-20,f
+"04,131.mp3",Abantu abasinga baagala nnyo okumanya ki kyendi.,25-20,f
+"04,132.mp3",Omusajja ono ayagala nnyo omukazi oyo.,25-20,f
+"04,133.MP3",Ebisiyaga byagaanibwa wano mu Uganda era bwe bakukwata nga obirya musango.,25-20,f
+"04,134.MP3",Nga omusomi w'ebitabo nnayagala nnyo okutegeera ekintu ekyo kye kitegeeza.,25-20,f
+"04,135.MP3",Nnina okusooka okwebuuza ku taata wange ku nsonga eyo.,25-20,f
+"04,136.MP3",Ezo zonna nkiwa zaali nteekateeka za mukama.,25-20,f
+"04,137.MP3",Ebigambo bingi byogeddwa naye nga si bituufu.,25-20,f
+"04,138.mp3",Ensonga ezo zonna nnaziwulidde wabula nga teziriimu ggumba.,25-20,f
+"04,139.MP3",Ssaagala nnyo kulya mmere etafumbiddwa mukyala wange.,25-20,f
+"04,140.mp3",Emmese osuubira zo tezivaako bulwadde obwo?,25-20,f
+"04,141.mp3",Ki ekisinze okuleeta ensasagge mu kitundu kino?,25-20,f
+"04,142.MP3",Mpulira nga nkaluubiriziddwa nnyo obulamu ennaku zino.,25-20,f
+"04,143.mp3",Omukazi oyo aweereza bulungi pulogulaamu eyo.,25-20,f
+"04,144.mp3",Ennaku zino abaana batwala ebintu bingi ku masomero.,25-20,f
+"04,145.MP3",Lwaki omuntu omu ayinza okubba ekintu kya munne?,25-20,f
+"04,146.MP3",Ekikwekweto ekyakoleddwa eggulo kyabadde kya maanyi nnyo.,25-20,f
+"04,147.MP3",Abantu abalina empisa basaana kuweebwa birabo.,25-20,f
+"04,148.MP3",Omanyi abayimbi abato bameka mu Uganda ensangi zino?,25-20,f
+"04,149.MP3",Katonda mwebaza nti nnina akalimu ke nsobola okukola.,25-20,f
+"04,150.mp3",Muto wo ali mu kibiina ki?,25-20,f
+"04,151.mp3",Omukazi oyo alina engeri gye yeeyisaamu etannyumira.,25-20,f
+"04,152.mp3",Abaana abataagala kukola basaana baweebwe ebibonerezo.,25-20,f
+"04,153.MP3",Omusajja eyayiira mukazi we asidi baamuwa kibonerezo ki?,25-20,f
+"04,154.mp3",Ebintu ebisinga obungi we yagendera e bulaaya byali biwedde.,25-20,f
+"04,155.mp3",Abatuuze beekalakaasizza lwa kubeera na kkubo bbi.,25-20,f
+"04,156.mp3",Ekibiina kino kye kisinga okubeeramu abaana abalungi.,25-20,f
+"04,157.mp3",Amazaalibwa go gabeerawo mu mwezi ki?,25-20,f
+"04,158.mp3",Amazzi gano galinga agalimu omunnyo.,25-20,f
+"04,159.mp3",Waliwo abantu abagyemera ebiragiro bya katonda.,25-20,f
+"04,160.MP3",Lwaki togendako mu ssinzizo ne weenenya ebibi byo?,25-20,f
+"04,161.mp3",Wali osonyiye ku muntu akukoze ekibi kyonna?,25-20,f
+"04,162.mp3",Obulwadde buno buyinza okuviirako omuntu okwetuga.,25-20,f
+"04,163.MP3",Okimanyi nti omwana oyo kati yenkana ne maama we obunene?,25-20,f
+"04,164.MP3",Mukama ensi eno yonna agikutte mu ngalo eno.,25-20,f
+"04,165.mp3",Abantu kati beetaaga kubayigiriza ngeri ya kunaaba ngalo.,25-20,f
+"04,166.MP3",Waliwo abantu abaabadde tebaagala kusigala mu maka gaabwe.,25-20,f
+"04,167.mp3",Lwaki ebintu ebisinga bya buseere ennaku zino?,25-20,f
+"04,168.mp3",Ekitundu kino kirimu abatemu bangi.,25-20,f
+"04,169.mp3",Omukazi baamukubye olubale nga balwanira omusajja.,25-20,f
+"04,170.mp3",Luli lwe twaziika omukadde oli olujjukira?,25-20,f
+"04,171.mp3",Mwana ki asinga obwesigwa mu baana bo?,25-20,f
+"04,172.mp3",Nze nnabadde ndowooza nti ebintu by'obuyonjo tubigyemu ekyejo.,25-20,f
+"04,173.mp3",Omusota gwabojjezza omusajja eggulo.,25-20,f
+"04,174.mp3",Ekirwadde kino kitadde nnyo abantu ku bunkenke.,25-20,f
+"04,175.mp3",Maama waabwe yali mukazi naye nga si mwangu nnyo.,25-20,f
+"04,176.mp3",Tosobola kuddamu kulowooza nti abantu bano beesigwa.,25-20,f
+"04,177.MP3",Omuwabuzi w'omukulembeze yayombye ku basajja abataweerera baana.,25-20,f
+"04,178.mp3",Ekyeyo kye yagendako omwaka oguwedde kyali kya mukisa.,25-20,f
+"04,179.mp3",Nze nga bwe ndaba ku bonna tewali alina musango.,25-20,f
+"04,180.mp3",Abavubuka abaakoze effujjo eggulo bonna bakwatiddwa.,25-20,f
+"04,181.mp3",Oteekeddwa okukimanya nti amaanyi gali mu mikono gyo.,25-20,f
+"04,182.mp3",Amenvu galimu ekirungo ekirungi mu kutereeza olubuto.,25-20,f
+"04,183.mp3",Lwaki abaana abawala baakoze bubi mu bibuuzo bino?,25-20,f
+"04,184.mp3",Oyo omukazi yagenda okutandika okuyimba nga ndi mukulu.,25-20,f
+"04,185.mp3",Mu sentensi zino tetuteekeddwa kusukka bigambo bikumi bina.,25-20,f
+"04,186.mp3",Omwana oyo lwaki temumufuddeeko nnyo?,25-20,f
+"04,187.mp3",Abazadde tebalina kye balina kwekwasa kuba abaana baabwe basomesaddwa.,25-20,f
+"04,188.mp3",Omugaati kimu ku bintu ebisinga okumpoomera.,25-20,f
+"04,189.mp3",Omwami yagamba mukyala we nti amwagala okutuuka ku mwezi.,25-20,f
+"04,190.mp3",Abo bonna abalina okwemulugunya bawandiike amannya gaabwe.,25-20,f
+"04,191.mp3",Ebikajjo bino byandibadde birungi naye omusana gwabikosa.,25-20,f
+"04,192.mp3",Lwaki teweesiize bizigo?,25-20,f
+"04,193.mp3",Abawala abakulu nga tebeefaako oba baba bategeeza ki?,25-20,f
+"04,194.MP3",Abantu abasinga baali bamanyi nti nsaaga naye kyababuukako.,25-20,f
+"04,195.mp3",Njagala nnyo okulunda ebisolo naddala ebyo ebivaamu ensimbi.,25-20,f
+"04,196.mp3",Okusooka kwa byonna twali tulowooza nti omusajja oyo mubbi.,25-20,f
+"04,197.mp3",Eggulo walabye omuvubuka gwe baakubye nga abbye?,25-20,f
+"04,198.mp3",Ekinu kimu ku bintu ebiriko emizizo mu Buganda wano.,25-20,f
+"04,199.mp3",Akatamu kano kawangadde okumala emyaka egisukka mu makumi ataano.,25-20,f
+"04,200.mp3",Lwaki wabadde olwowooza nti nze agenda okusooka okutuuka?,25-20,f
+"04,201.mp3",Laba ebintu bye tubadde tusuubira okufuna ate tetubifunye.,25-20,f
+"04,202.MP3",Abantu abo balowooza nti tugenda kuggwamu amaanyi ku musango guno.,25-20,f
+"04,203.MP3",Abatuuze baasuze bakuumi ebisolo byabwe kuba bibbibwa nnyo ennaku zino.,25-20,f
+"04,204.mp3",Akasente k'ennaku zino ka kutuuyanira nnyo.,25-20,f
+"04,205.mp3",Amafuta agawunya wano olowooza gavudde wa?,25-20,f
+"04,206.mp3",Nsanze ente nga ziri mu lumonde wange zirya amalagala.,25-20,f
+"04,207.mp3",Akabanje akaagudde mu kifo kiri wakategeddeko?,25-20,f
+"04,208.mp3",Abantu bonna abakoppa basaaanye bavunaanibwe.,25-20,f
+"04,209.mp3",Omukulembeze oyo tawadde batuuze be kifaananyi kirungi.,25-20,f
+"04,210.mp3",Omupakasi oyo alima bulungi nnyo.,25-20,f
+"04,211.mp3",Obadde okimanyi nti obutiko kimu ku bintu ebyeddirwa wano mu Buganda?,25-20,f
+"04,212.mp3",Abakazi baagala nnyo ssente ezibalekerwa ku kameeza.,25-20,f
+"04,213.mp3",Oteekeddwa okutabula obulungi eddagala eryo nga tonnaliwa mwana oyo.,25-20,f
+"04,214.mp3",Ebintu ebimu by'okola bikuyisa mulalu oba okimanyi?,25-20,f
+"04,215.mp3",Obuwundo buteeberezebwa nti bwe bwavaako ekirwadde kino.,25-20,f
+"04,216.mp3",Omusajja eyakoze akalango ako oba yabadde ku ki?,25-20,f
+"04,217.mp3",Oteekeddwa okweyigiriza okutereka ssente wekka.,25-20,f
+"04,218.MP3",Omuvubuka ow'omulembe ateekwa okuba nga yeefaako.,25-20,f
+"04,219.mp3",Ennaku kati ziweze kkumi na ttaano okuva lwe baggala amasomero.,25-20,f
+"04,220.mp3",Oteekeddwa okukyusa engoye ezo buli lunaku.,25-20,f
+"04,221.MP3",Ettabi ly'omuti lyawaguse eggulo ne likuba emmotoka.,25-20,f
+"04,222.mp3",Nnaabakyala wa Bungereza we yajjira mu Uganda wali wa?,25-20,f
+"04,223.mp3",Oyo omusajja tasaanidde kweyisa atyo kuba naye azadde abaana.,25-20,f
+"04,224.mp3",Abaana abawala basaanidde okuyigira ku nsobi zaabwe ze bakola.,25-20,f
+"04,225.MP3",Wali weegomba obusomesa nga omulimu oba baakukaka okubusoma?,25-20,f
+"04,226.mp3",Oteekeddwa okusomera e waka wadde essomero liggale.,25-20,f
+"04,227.mp3",Ekiwottonono okimanyi?,25-20,f
+"04,228.mp3",Embeera bw'enaatereera nja kukuleeta tubeere ffembi.,25-20,f
+"04,229.mp3",Omwana oyo muto naye yeeyisa bulungi.,25-20,f
+"04,230.mp3",Abayimbi abatandika ennaku zino bangi nnyo.,25-20,f
+"04,231.MP3",Bbayibuli egamba etya ku kikolwa ekyo?,25-20,f
+"04,232.mp3",Lwaki weenakuwaza ate nga oli musajja mugagga?,25-20,f
+"04,233.mp3",Entuumu y'amayinja olowooza eri mu ssente mmeka?,25-20,f
+"04,234.mp3",Jjukira ne bbayibuli ekyogera nti alina akatono kalimuggyibwako.,25-20,f
+"04,235.mp3",Omwana bwe baamugoba teyadda waabwe.,25-20,f
+"04,236.mp3",Ki olowooza ekyali kiviirako abantu okuttibwa mu biseera ebyayita?,25-20,f
+"04,237.mp3",Ennaku zino kiba kirungi omuntu n'asiiba ewaka.,25-20,f
+"04,238.mp3",Wali olinnyeeko ku nnyonyi bukyanga obeerawo?,25-20,f
+"04,239.mp3",Ye abange olina emyaka emeka?,25-20,f
+"04,240.mp3",Bulijjo neebuuza ekibuuzo ekyo naye nga sirina kya kuddamu.,25-20,f
+"04,241.mp3",Omuntu alina okwesigika oba y'afaanana atya?,25-20,f
+"04,242.mp3",Ekikonde ekyamukubwa kyali kya maanyi nnyo era nze nnali ndowooza afudde.,25-20,f
+"04,243.mp3",Maama wange omuto yagudde mu batemu katono bamutte.,25-20,f
+"04,244.mp3",Bwe nnaaba nfunye ku kasente nja kutandikawo obulunzi bw'enkoko.,25-20,f
+"04,245.MP3",Ekifuba kimuluma kuba yasitula nnyo ebintu ebizitowa nga muto.,25-20,f
+"04,246.MP3",Oba lwaki obufumbo bw'ennaku zino tebuliimu ssanyu?,25-20,f
+"04,247.MP3",Omugole yayambala engoye nga za bbeeyi nnyo naye teyanyuma.,25-20,f
+"04,248.mp3",Nsibawo emitwalo gyange ataano bw'oba omanyi taata wange.,25-20,f
+"04,249.mp3",Nawolovu abakazi abasinga bamutya nnyo.,25-20,f
+"04,250.mp3",Omwana oyo yatandika okwekozesa nga muto nnyo.,25-20,f
+"04,251.mp3",Abanoonyibobubudamu be basinze okuleeta ebizibu mu Uganda.,25-20,f
+"04,252.mp3",Obadde okimanyi nti omulunzi naye abeera muntu?,25-20,f
+"04,253.mp3",Ebiseera nga tugenda mu kulonda bibeera bya bwerinde nnyo.,25-20,f
+"04,254.mp3",Akafi k'ennyama akamu ke yampadde kati ate akaagala.,25-20,f
+"04,255.mp3",Sijja kwetonda kuba siraba musango gwe nnakoze.,25-20,f
+"04,256.mp3",Ekide ky'agenze okukoona nga abaana bonna tebannatuuka.,25-20,f
+"04,257.mp3",Omwana oyo ojja kumuyiira obuugi.,25-20,f
+"04,258.mp3",Faayo nnyo okulaba nga abantu b'okulembera bakwenyumirizaamu.,25-20,f
+"04,259.mp3",Omukadde eyali abeera wano yali muyonjo nnyo.,25-20,f
+"04,260.MP3",Nkuze kutuuka wano naye simanyi wadde okuvuga eggaali.,25-20,f
+"04,261.mp3",Eddagala ly'ekinnansi ennaku zino lyettaniddwa nnyo.,25-20,f
+"04,262.mp3",Amenvu kimu ku bintu abasawo kye batugamba okulya ennyo.,25-20,f
+"04,263.mp3",Osuubira amazzi galina mugaso ki mu mubiri gw'omuntu?,25-20,f
+"04,264.mp3",Omukazi oyo alwana nnyo ne bakazi banne.,25-20,f
+"04,265.MP3",Oluvannyuma lwa mukyala we okumukwatira mu bwenzi yasalawo anobe.,25-20,f
+"04,266.MP3",Olubugo edda abantu baali balwambala nga olugoye.,25-20,f
+"04,267.mp3",Wenjogerera ebyokwerinda bimaze okunywezebwa ku nsalo y'eggwanga.,25-20,f
+"04,268.MP3",Oluguudo luno mu maaso eyo nja kulubbulamu erinnya lyange.,25-20,f
+"04,269.MP3",Omwezi obadde okimanyi nti gwaboneka?,25-20,f
+"04,270.MP3",Lwaki enjuki zirumisa kabina?,25-20,f
+"04,271.MP3",Oteekwa okuba nga okoze bulungi okuweebwa ekifo wano.,25-20,f
+"04,272.mp3",Mu kusooka nnali mmanyi nti buli gwe basiba abeera n'omusango.,25-20,f
+"04,273.mp3",Obukadde obusoba mu makumi ataano butokomokedde mu muliro.,25-20,f
+"04,274.MP3",Emyaka nga ettano egiyise amasomero gaali gookyebwa nnyo.,25-20,f
+"04,275.MP3",Ekirevu ky'omusajja oyo kizise naye tayagala kukisala.,25-20,f
+"04,276.MP3",Obudde buno mbadde nsuubira abaana abali mu myaka gyo okubeera nga beebase.,25-20,f
+"04,277.MP3",Ekidomola kino kitonnya naye kikyalina omugaso.,25-20,f
+"04,278.MP3",Okuba nnyo enduulu singa babeera bakubba.,25-20,f
+"04,279.mp3",Wali weefumiitirizza ku bulamu singa omuntu yali tayambala?,25-20,f
+"04,280.mp3",Olowooza ku ggi n'enkoko ki ekyasooka okutondebwa?,25-20,f
+"04,281.mp3",Emboozi y'abayigirizwa mu bbayibuli ogitegeera bulungi?,25-20,f
+"04,282.mp3",Oteekeddwa okukola obulungi omulimu ogukuweereddwa okusobola okusiimibwa.,25-20,f
+"04,283.mp3",Akaseera kano waliwo abantu abamu nga beebase.,25-20,f
+"04,284.mp3",Katikkiro mwagala nnyo kuba atukubiriza buli kadde okubeera abakozi ennyo.,25-20,f
+"04,285.mp3",Bulijjo tulina okujjukira abantu abatuyambye mu bulamu bwaffe.,25-20,f
+"04,286.mp3",Ekiwempe kino ani eyakiruka?,25-20,f
+"04,287.mp3",Ebyobulamu mu kaseera kano tebiteekeddwa nnyo ku mwanjo.,25-20,f
+"04,288.mp3",Osabiddwa okuleeta abantu nga bataaano abakusemba okukola omulimu guno.,25-20,f
+"04,289.mp3",Abantu abataasoma be basinga okwonoona ebyobuwangwa.,25-20,f
+"04,290.mp3",Abantu abasinga bagaana okukola ebintu bye balina okukola.,25-20,f
+"04,291.mp3",Wali osembyeko mu kibiina kyonna?,25-20,f
+"04,292.mp3",Obudde buno bwa mutawaana nnyo eri abavubuka.,25-20,f
+"04,293.MP3",Kabaka wa Buganda yalondebwa okubeera omusaale mu kulwanyisa mukenenya.,25-20,f
+"04,294.MP3",Wali olabye ku muntu afudde mukenenya?,25-20,f
+"04,295.MP3",Abantu abanywa ennyo omwenge be basinze okusuulawo obuvunaanyizibwa.,25-20,f
+"04,296.MP3",Olunaku luyinza okukya ku makya nga gwe nannyini wano.,25-20,f
+"04,297.MP3",Abaganda abaasooka baakola kya maanyi nnyo okutandikawo eggwanga lino.,25-20,f
+"04,298.mp3",Olwokubiri olujja nnina okutuukako mu kifo kiri kye twayogerako.,25-20,f
+"04,299.mp3",Obwegassi lye limu ku makubo omulina okuyitibwamu okuvvuunuka obwavu.,25-20,f
+"04,300.mp3",Tetulina kukungaanira mu masinzizo ku lunaku luno.,25-20,f
+"04,301.mp3",Omubazzi yeggalira bikooko kyokka embaawo azitunda.,25-20,f
+"04,302.mp3",Olina okubeera n'omwoyo ogulumirirwa abantu abalala.,25-20,f
+"04,303.mp3",Omwezi guno ffenna tulina okubeera nga tukoze alipoota ku mulimu guno.,25-20,f
+"04,304.mp3",Ekibadde kikutte obudde kimaze ne kibuta.,25-20,f
+"04,305.mp3",Engalo obadde okimanyi nti kye kitundu ky'omubiri ekisinga obukyafu.,25-20,f
+"04,306.mp3",Abantu abasinga beekweka mu biseera ebyasooka nga siriimu yakajja.,25-20,f
+"04,307.mp3",Omusamize akwatiddwa nga avunaanibwa kusaddaaka mwana.,25-20,f
+"04,308.MP3",Lwaki obadde oyagala kugenda bweru wa ggwanga?,25-20,f
+"04,309.mp3",Abantu abayinza okuba n'obulabe be bano be tuli nabo wano.,25-20,f
+"04,310.mp3",Ekipande kino kinene bulungi.,25-20,f
+"04,311.mp3",Tuteekeddwa obutateeka bya bufuzi mu nsonga zino.,25-20,f
+"04,312.mp3",Osaanye okuwa ebirowoozo nga tolina kyekubiira yenne.,25-20,f
+"04,313.mp3",Obadde okimanyi nti Bbinikira nakyo kyalo?,25-20,f
+"04,314.mp3",Singa mukazi wo akugamba nti ayagala kunoba owulira otya?,25-20,f
+"04,315.mp3",Nze bwe mpulira nga enjala ennuma siddamu kukwata bye nsoma.,25-20,f
+"04,316.mp3",Ebintu bino yabisoma era abimanyi nnyo.,25-20,f
+"04,317.mp3",Obuyonjo bwetaagisa nnyo mu kiseera nga kino.,25-20,f
+"04,318.mp3",Malirizza okufumba emmere naye sirina nva.,25-20,f
+"04,319.mp3",Baali bakusibyeko mu kkomera?,25-20,f
+"04,320.mp3",Obudde bugenze okuwungeera nga abalwadde baweze bataano.,25-20,f
+"04,321.mp3",Njagala nnyo okulya ebyennyanja naddala nga bisiike.,25-20,f
+"04,322.mp3",Wazzizza musango ki ogwakuviiriddeko obuzibu?,25-20,f
+"04,323.mp3",Nze mbadde ndowooza nti tulina okusisisnkana leero.,25-20,f
+"04,324.mp3",Okkiririza mu kikolwa ky'okukuba abaana ku masomero?,25-20,f
+"04,325.MP3",Osobola okumpandiikira ekintu ky'onna ky'oyagala nze ne nkikuwa.,25-20,f
+"04,326.mp3",Obuyambi bwe twandifunye bwandituyambye nnyo mu kiseera nga kino.,25-20,f
+"04,327.mp3",Omukulembeze asazeewo amasomero gonna gaggalwe.,25-20,f
+"04,328.mp3",Oteekeddwa obutanoonya bya kukola nga omaze okusoma.,25-20,f
+"04,329.mp3",Edda nze nnali mmanyi nti okulima kibonerezo.,25-20,f
+"04,330.mp3",Amayembe g'ente gwe olowooza galina mugaso ki?,25-20,f
+"04,331.mp3",Sinnalaba kintu kipya kiyinza kweyambisibwa mu mbeera eno.,25-20,f
+"04,332.mp3",Omulaalo atuuse naye ate taleese mata.,25-20,f
+"04,333.mp3",Lwaki emboozi zo ezisinga zikwata ku bakazi?,25-20,f
+"04,334.mp3",Eggulo we nnakulabidde nnabadde mpulira obusungu bungi nnyo.,25-20,f
+"04,335.mp3",Okusinziira ku bintu bye mbadde nkuwa obadde tosaana kukola ekyo.,25-20,f
+"04,336.mp3",Abazadde nabo balina okuvunaanibwa ku nsoma embi ey'abayizi.,25-20,f
+"04,337.mp3",Nze nnina ekirooto kinene era luliba olwo ne kituukirira.,25-20,f
+"04,338.mp3",Ababbi ennaku zino bangi nnyo oba lwaki?,25-20,f
+"04,339.mp3",Omuyimbi oyo talina bwenkanya okusinziira ku bye yayimbye.,25-20,f
+"04,340.mp3",Ani gw'ogenda okuwagira mu kalulu akajja?,25-20,f
+"04,341.mp3",Nabadde ndowooza nti ebintu ebisinga tubimalirizza.,25-20,f
+"04,342.MP3",Lwaki otwala obudde bungi okukwata essimu?,25-20,f
+"04,343.mp3",Omuyini guno mumpi nnyo era gunnumya omugongo.,25-20,f
+"04,344.mp3",Omukwano gwe baalina ne mukyala we gwali gubasaza mu kabu.,25-20,f
+"04,345.mp3",Ekikopo ekyo wandibadde okiggyawo wansi awo.,25-20,f
+"04,346.mp3",Engoye zonna ze yabadde ayanise baazibbye eggulo.,25-20,f
+"04,347.MP3",Fukamira bulungi nga obuuza abantu abakulu.,25-20,f
+"04,348.MP3",Nze nkufaako nnyo naye olabika tokiraba.,25-20,f
+"04,349.mp3",Omwana oyo omutwala wa ekiro kino?,25-20,f
+"04,350.mp3",Omukadde oli gwe yali oyogerako yalaga wa?,25-20,f
+"04,351.mp3",Sigenda kugula bintu ku bbeeyi ya buseere.,25-20,f
+"04,352.mp3",Abaana bano babadde bawoggana.,25-20,f
+"04,353.mp3",Ebibumba bye nnakugambye okusiika biri wa?,25-20,f
+"04,354.mp3",Omusomo guno mulungi nnyo naddala eri abavubuka abatandika okwezimba.,25-20,f
+"04,355.mp3",Olwaleero tugenda kubeera mu kifo kino nga tukirongoosa.,25-20,f
+"04,356.mp3",Guno omuddaala waguzimbisa ssente mmeka?,25-20,f
+"04,357.mp3",Osobola kwogera nnimi mmeka?,25-20,f
+"04,358.MP3",Lwaki amateeka ku byokulima manafu nnyo?,25-20,f
+"04,359.mp3",Amaziga ge yakaaba nga bamusuddewo gaali mangi nnyo.,25-20,f
+"04,360.mp3",Ebinyebwa bye yalima byamera bulungi.,25-20,f
+"04,361.mp3",Ekimuli ky'emmwanyi okimanyi kibeera kyeru?,25-20,f
+"04,362.mp3",Oteekeddwa okuwuliriza bantu abakulu nga boogera.,25-20,f
+"04,363.MP3",Ka ngire nnoonye ekyokkola.,25-20,f
+"04,364.mp3",Ennamba gye wampa nga tebeerako.,25-20,f
+"04,365.mp3",Nnakugamba olekere awo okumpita bbaawo naye towulira.,25-20,f
+"04,366.mp3",Ebikuta bya lumonde embizzi zibirya nga obifumbye.,25-20,f
+"04,367.mp3",Obadde okimanyi nti nze nnazinze omukeeka gwe mwabadde mutuddeko?,25-20,f
+"04,368.mp3",Obutula bulungi nnyo ku bantu abalina entunnunsi.,25-20,f
+"04,369.MP3",Ekyo ekyalo kimanyiddwa nti kirima nnyo lumonde.,25-20,f
+"04,370.mp3",Nawulidde nti wagudde mu babbi eggulo.,25-20,f
+"04,371.MP3",Bwe nnamusanga yandaga nti kye yaliko tekyali kikyamu.,25-20,f
+"04,372.mp3",Sigaana ye ggwe abasinga mu bulungi naye olina empisa embi.,25-20,f
+"04,373.mp3",Lwaki obadde ogaanye okuggulawo?,25-20,f
+"04,374.mp3",Kiki ekisinga okukunyiiza nga tuli ffembi?,25-20,f
+"04,375.mp3",Abateesa ku biteeso ebyo si birungi nnyo.,25-20,f
+"04,376.mp3",Okusannyalaza omuntu nga alongoosebwa olowooza kirungi?,25-20,f
+"04,377.mp3",Oluguudo luno lusaana kuddamu kulimibwa.,25-20,f
+"04,378.mp3",Omwana oyo abadde muto jjuuzi wano anaye kati akuze.,25-20,f
+"04,379.mp3",Ekibinja ky'abaana abato nga tebasomye kiba kya bulabe.,25-20,f
+"04,380.mp3",Ensimbi ennaku zino tezirina muwendo gumala.,25-20,f
+"04,381.mp3",Enkumi nnya wano mu Uganda ogamba zigula ki?,25-20,f
+"04,382.mp3",Eggulo olubuto lwannumye nnyo ekiro.,25-20,f
+"04,383.mp3",Wabula bwe nkugamba ku bintu ebinnuma tofaayo.,25-20,f
+"04,384.mp3",Obuyaaye kibi naye ate abantu abamu bakifunyeemu.,25-20,f
+"04,385.mp3",Nze nsuubira tutuule waka ekirwadde kiggwewo.,25-20,f
+"04,386.mp3",Nja kukomawo singa onaaba onsonyiye.,25-20,f
+"04,387.mp3",Lwaki abakazi abasinga basiba obusungu ku mitima?,25-20,f
+"04,388.mp3",Okukuma mu bantu omuliro kati musango mu Uganda.,25-20,f
+"04,389.mp3",Omusota ogwo ne bw'otagutta tegulina busagwa.,25-20,f
+"04,390.mp3",Okulenga emyera gumu ku mirimu egisinga okukolebwa wano mu Uganda.,25-20,f
+"04,391.mp3",Ekikennembi kyo okimanyi?,25-20,f
+"04,392.mp3",Olina amannyo ameka mu kwamwa?,25-20,f
+"04,393.mp3",Jjukira nti si kirungi kunyooma muntu yenna.,25-20,f
+"04,394.mp3",Olina okubeera nga olina ekirooto mu bulamu bwo.,25-20,f
+"04,395.mp3",Ntuuse okugenda okufuna eddagala kuba mpulira nkooye obulwadde buno.,25-20,f
+"04,396.mp3",Ekibadde wano kibadde kibi nnyo.,25-20,f
+"04,397.mp3",Tulina kukolera wamu nga abantu abalina ekirooto ekisinga.,25-20,f
+"04,398.mp3",Buli kintu ky'ofukirira kivaamu ebibala ebirungi.,25-20,f
+"04,399.mp3",Buli kintu kye mbadde njagala kyonna okimpadde.,25-20,f
+"04,400.mp3",Obuweerero bwe tufunye bungi nnyo.,25-20,f
+"04,401.mp3",Abantu abasukka mu mutwalo ogumu banna balwadde.,25-20,f
+"04,402.mp3",Abadduse mu kkomera eggulo babakutte.,25-20,f
+"04,403.mp3",Abaafudde baabadde bameka?,25-20,f
+"04,404.mp3",Omukyala oyo alina omuzigo gulinga eddibu.,25-20,f
+"04,405.mp3",Ebyo nnabivaako nga binnumya nnyo obulamu bwange.,25-20,f
+"04,406.mp3",Akalulu kange nnakamuwa naye teyayitamu.,25-20,f
+"04,407.mp3",Siyinza kukkiriza nti gwe muntu asinze mu mulimu guno.,25-20,f
+"04,408.mp3",Ompa bweyamo kinti ogenda kubeera mukazi asinga?,25-20,f
+"04,409.mp3",Okwagala ebintu ebinga kyabulabe nnyo eri abavubuka.,25-20,f
+"04,410.mp3",Waliwo abantu abatali beesigwa kukola nabo.,25-20,f
+"04,411.mp3",Funayo waakiri ekipapula ekikwogerako.,25-20,f
+"04,412.mp3",Omusango gwe baamuvunaanye nti yaguzza emyaka kkumi emabega.,25-20,f
+"04,413.mp3",Amajaani gano malungi naye si malungi ku bakazi.,25-20,f
+"04,414.mp3",Kaawa ono naye ayina okutwalibwa .,25-20,f
+"04,415.mp3",Ebisembayo byonna yambimpa naye ssaabitegeera.,25-20,f
+"04,416.mp3",Abaana bo kati bonna balina eby'okukozesa?,25-20,f
+"04,417.mp3",Omukulembeze w'ensi yaffe yaakogera eri eggwanga emirundi esatu.,25-20,f
+"04,419.mp3",Abavubuka balina okukolerera obukadde bwabwe nga bakyalina amaanyi.,25-20,f
+"04,420.mp3",Katonda yamuwa ekitone ky'okuzina naye yagaana okukikozesa okubaako ky'atuukako.,25-20,f
+"04,421.mp3",Okufa lugendo era olutambula bw'omu.,25-20,f
+"04,422.mp3",Obutemu ensangi zino bungi nnyo naddala ku baana abasoma.,25-20,f
+"04,423.mp3",Tulina okulaba nga tukola nnyo okusobola okuba obulungi gye bujja.,25-20,f
+"04,424.mp3",Ekitambaala kino kikadde naye kirungi n'okusinga kino ekyakalukibwa.,25-20,f
+"04,425.mp3",Buli muntu mu Buganda ateekwa okuwa kabaka ekitiibwa ekisaanidde.,25-20,f
+"04,426.mp3",Ekitambaala kino kikadde naye kirungi n'okusinga kino ekyakalukibwa.,25-20,f
+"04,427.mp3",Bwe yamufumise akambe omusaayi ggwayiise mungi nnyo.,25-20,f
+"04,428.mp3",Omukyala ono atuyigirizza nnyo okulunda ebisolo naddala ente.,25-20,f
+"04,429.mp3",Lwaki wasalawo okusoma obusawo n'otasoma busomesa nga nze?,25-20,f
+"04,430.mp3",Abantu abamumanyi batono nnyo era tasobola kuwangula kalulu.,25-20,f
+"04,431.mp3",Ojjukira omuyizi eyeesimbawo n'afuna akalulu kamu kokka?,25-20,f
+"04,432.mp3",Mu kitundu ky'olupapula ekyasooka yafunamu akabonero kamu kokka.,25-20,f
+"04,434.mp3",Olulimi oluganda kati terukyatwalibwa nga lwa wansi.,25-20,f
+"04,433.mp3",Okubeera ku mulembe olina okuba nga weekakasa olulimi lwo.,25-20,f
+"04,435.mp3",Obuyonjo kimu ku bintu ebisuubirwa mu muvubuka ow'omulembe omutebi.,25-20,f
+"04,436.mp3",Obulambuzi kati buteereddwamu nnyo amaanyi nga omu ku kaweefube w'okululaakulanya eggwanga.,25-20,f
+"04,437.mp3",Nze bwe mbeera nnyize ssaagala muntu yenna ansala mu maaso.,25-20,f
+"04,438.mp3",Olusuku luno ndulabirira bulungi era y'ensonga lwaki luvaamu amatooke amalungi.,25-20,f
+"04,439.mp3",Okuteekateeka okulonda kyetaagisa ensimbi nnyingi nnyo.,25-20,f
+"04,440.mp3",Omukazi yamugoba olw'ensonga nti yali tazaala.,25-20,f
+"04,441.mp3",Emirundi mingi abaana abato balemwa okutuuka ku masomero mu budde.,25-20,f
+"04,442.mp3",Omuzadde yenna ateekwa okusasula ebisale by'essomero.,25-20,f
+"04,443.mp3",Olugambo kimu ku bintu ebisinga okutabangula obufumbo.,25-20,f
+"04,444.mp3",Omuyizi omupya mu kibiina asaanye okulambikibwa obulungi ereme kugwa mu buzibu.,25-20,f
+"04,445.mp3",Gye nnasooka okukolera omusajja yali tasasula.,25-20,f
+"04,446.mp3",Oluwombo luwooma nnyo naye nze sisobola kulugula mitwalo gisukka mukaaga.,25-20,f
+"04,447.mp3",Bw'otuuka ku muti gwa ffene nga onkubira essimu.,25-20,f
+"04,448.mp3",Obusosoze mu mawanga kye kimu ku biviiriddeko eggwanga okudda emabega.,25-20,f
+"04,449.mp3",Embeera embi ereetera abakazi okukyawa abasajja bwabwe.,25-20,f
+"04,450.mp3",Nnali mwagala nnyo naye nga ate teyeefiirayo.,25-20,f
+"04,451.mp3",Omukululo taata gwe yaleka gwali mulungi nnyo okusinga omuntu omulala yenna.,25-20,f
+"04,452.mp3",Tutegeke bye tugenda okusomesa abayizi mu kibiina olwa leero.,25-20,f
+"04,453.mp3",Mukwano gwange ono tayagala kusoma ate nze nga njagala asome.,25-20,f
+"04,454.mp3",Abafumba emmere mu butale basaanye okuba abayonjo.,25-20,f
+"04,455.mp3",Enva endiirwa zirimu ekiriisa kya maanyi nnyo era eky'omugaso.,25-20,f
+"04,456.mp3",Okukopperera kiviiriddeko okudibya ebyobuwangwa.,25-20,f
+"04,457.mp3",Ekiwonvu kino kirimu amazzi amalungi okuwa ente.,25-20,f
+"04,458.mp3",Tombuulira bigambo bya mukazi oyo kuba nnabikoowa.,25-20,f
+"04,459.mp3",Omuti guno mulungi mu kuwanula amapaapaali.,25-20,f
+"04,460.mp3",Otera okulya ku bibala?,25-20,f
+"04,461.mp3",Sisobola kulya mawolu ku makya kuba gannumya olubuto.,25-20,f
+"04,462.mp3",Ebigambo ebiwandiikibwa ku maduuka ebimu tebibeera bituufu.,25-20,f
+"04,463.mp3",Gendako mu lubiri e Mengo olabe ku kika ky'omuddo oguliyo.,25-20,f
+"04,464.mp3",Ebikuta bya muwogo tebiriibwa bantu.,25-20,f
+"04,465.mp3",Nnakula nga otambula lwakuba wali oyanguwa nnyo.,25-20,f
+"04,466.mp3",Twagala omuntu nga alina obumanyirivu mu kuwandiika Oluganda.,25-20,f
+"04,467.mp3",Guno omulimu tujja kusobola okugukola.,25-20,f
+"04,468.mp3",Enjala mpulira ennuma nnyo era tugende tufune ekyokulya.,25-20,f
+"04,469.mp3",Siyinza kwagala mukazi asiika mpuuta mu bulamu bwange.,25-20,f
+"04,470.mp3",Olusingosingo lw'enkoko tekubeera wadde akanyama akatono bwe kati.,25-20,f
+"04,471.mp3",Ndeetera engatto zange awo wansi w'ekitanda.,25-20,f
+"04,472.mp3",Olugoye luno lukaddiye era neetaagayo olulala.,25-20,f
+"04,473.mp3",Wayozezza engoye naye tezaatukudde wadde namu.,25-20,f
+"04,474.mp3",Obufumbo bw'abavubuka ensangi zino tebutera kuwangaala.,25-20,f
+"04,475.mp3",Fulumya engatto zo eno ennyumba tetuyingizaamu ngatto.,25-20,f
+"04,476.mp3",Ennyonyi tesobola kutambula nga temuli mafuta.,25-20,f
+"04,477.mp3",Empewo nnyingi nnyo ennaku zino.,25-20,f
+"04,478.mp3",Mukyala wange mpulira mwagala okukamala naye takimanyi.,25-20,f
+"04,479.mp3",Nja kkugulira essaawa singa banaaba bansasudde ssente zange.,25-20,f
+"04,480.mp3",Okubumba kulungi naye kukaluubiriza mu biseera by'enkuba.,25-20,f
+"04,481.mp3",Omusota gwe twasanga mu kakubo akatono nga tudda ewaka ogujjukira?,25-20,f
+"04,482.mp3",Enkuba bw'etonnya ate omuntu ne yelaliikirira ebisooto.,25-20,f
+"04,483.mp3",Omufumbo yenna teyandisaanye kutuuka kikeerezi ewaka.,25-20,f
+"04,484.mp3",Lwaki abantu abatta bannabwe tebaweebibonerezo bikakali?,25-20,f
+"04,485.mp3",Ekikongoliro kisobola okukuula erinnyo singa oba okirumye.,25-20,f
+"04,486.mp3",Olubaawo luno lwetaaga kusiimuula lusooke lutukule.,25-20,f
+"04,487.mp3",Ebyenda ebibeera mu nte bingi okusinga ebibeera mu muntu.,25-20,f
+"04,488.mp3",Eddagala lye baamuwa lyali terisobola kumuwonya musujja.,25-20,f
+"04,489.mp3",Ekiro embwa zaasuze nga ziboggola ne zimbuzaako otulo.,25-20,f
+"04,490.mp3",Kitundu ki ky'omanyi ekisingamu obunnyogovu wano mu Buganda?,25-20,f
+"04,491.mp3",Olulimi Oluganda si lwangu lwa kuvvuunula nadda ku muntu atalusomye.,25-20,f
+"04,492.mp3",Ekidomola kino tekiriimu mazzi naye kizitowa nnyo.,25-20,f
+"04,493.mp3",Amasowaani gano mugateeke ku katandaalo gaggweko amazzi.,25-20,f
+"04,494.mp3",Ekimmondemonde kiri ekiri mu lutobazi kyetaaga kulima nga enkuba tennakitonnyamu.,25-20,f
+"04,495.mp3",Ekiwato ky'omuyimbi oli kigonda nnyo ky'ova olaba nga azina nnyo.,25-20,f
+"04,496.mp3",Bwe twatuula mu kizimbe kiri temwali wantu we tuteeka bisaaniiko.,25-20,f
+"04,497.mp3",Ekitabo kino kinyuma nnyo era buli muntu asaanye akisome naye anyumirwe.,25-20,f
+"04,498.mp3",Nze ntya okuyita ku mazzi kuba nnina ensisi nnyingi nnyo.,25-20,f
+"04,499.mp3",Omuwala ono awandiika bulungi naye tamanyi kubala.,25-20,f
+"04,500.mp3",Mbaliraako ebitabo ebyo olabe oba biwera amakumi ataano.,25-20,f
+"04,501.mp3",Entamu eno yabotoka ate gye tulina okufumbiramu kuba tuli bangi nnyo.,25-20,f
+"04,502.mp3",Nze nandiguze ekibanja kiri naye sirina ssente zimala.,25-20,f
+"04,503.mp3",Obulamu bw'okusomesa bunyuma naye bwetaaga nga omuntu amanyi okutereka ssente.,25-20,f
+"04,504.mp3",Ekyuma kino kigumu nnyo era kisobola okumala emyaka egisukka mu kikumi.,25-20,f
+"04,505.mp3",Obuzaale bw'omugenzi tewali muntu abumanyi kubanga ffe tubadde bato ku ye.,25-20,f
+"04,506.mp3",Nze ntya okwewola kubanga kiyinza okunviirako okusibwa.,25-20,f
+"04,507.mp3",Funayo omukazi akufumbira kubanga okomawo nga obudde buyise nnyo.,25-20,f
+"04,508.mp3",Ekikoola kino kigazi naye kirimu ebibomboola ebitali birungi.,25-20,f
+"04,509.mp3",Nnawolovu kantu katono nnyo naye katambula kasoonooka.,25-20,f
+"04,510.mp3",Tereeza enviirizo kubanga kisunsumadde era kikulabisa bubi nnyo.,25-20,f
+"04,511.mp3",Ku nkoko nze nsinga kwagalako kisambi kubanga kibaako ennyama ewooma.,25-20,f
+"04,512.mp3",Waliwo omuntu eyansuubiza ssente zange olwa leero naye tannatuuka.,25-20,f
+"04,513.mp3",Okwewola ssente mu bbanka kizibu ennaku zino kubanga kyetaagisa emisoso mingi.,25-20,f
+"04,514.mp3",Ettaka eggimu libeera ddungi okulimirako enva endiirwa kuba zidda bulungi.,25-20,f
+"04,515.mp3",Omuti guno gutandise okutojjera ebikoola kati gwetaaga enkuba.,25-20,f
+"04,516.mp3",Olupapula luno si lulungi kuwandiikibwako muntu nga mulwadde wa maaso.,25-20,f
+"04,517.mp3",Okuwasa omukazi mu bufumbo obutukuvu kirungi kuba abaana bammwe babeera batukuvu.,25-20,f
+"04,418.mp3",Nze siri mutuukirivu era neewala nnyo okulamula omuntu.,25-20,f
 ,Okuba n'emikwano emingi nga gikukiririzaamu kirungi nnyo.,25-20,f
 ,Omusajja yawandiika akatabo kalungi ng'akozesa ebigambo ebikaluba ate naatabinnyonyola makulu gaabyo.,25-20,f
 ,Buli ggwanga lyonna liririna enono n'obulombolombo kwe litambulira.,25-20,f
@@ -5075,803 +5075,3 @@ filename,sentence,age range,gender
 ,Kirungi okukolera awamu n'abakulembeze baffe.,,
 ,Saagala bantu bataagala kukola mirimu.,,
 ,Tambulanga n'obwegendereza.,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
-,,,
